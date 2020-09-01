@@ -7,7 +7,7 @@
 
 
 I consider myself as a  technology lover, everyday I set to  myself a new challenge. 
-I like  share what I'v learned on  blogs, podcasts and  other  medias. 
+I like to share what I'v learned on  blogs, podcasts and  other  medias. 
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
