@@ -6,8 +6,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/burdierluis?style=for-the-badge)
 
 
-I consider myself as a  geek. 
-I like to share what I've learned on  blogs, podcasts and  other  medias. 
+github# 🪙~> echo "I consider myself as a  geek and crazy about Gnu/linux 💕"
+      
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=burdier&show_icons=true&theme=dracula)
